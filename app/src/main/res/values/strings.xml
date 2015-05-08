@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ממיר מידות</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clac_button_text">סימה תחשבי</string>
+    <string name="default_teaspoon_value">1.0</string>
+    <string name="error_message">סימה זה לא עובד ככה, את חייבת להכניס ערך כלשהו!</string>
+
+
+    <string name="tsp">כפית</string>
+    <string name="tbs">כף</string>
+    <string name="cup">כוס</string>
+    <string name="oz">אוז</string>
+    <string name="pint">פינט</string>
+    <string name="quart">קורט</string>
+    <string name="gallon">גלון</string>
+    <string name="pound">פאונד</string>
+    <string name="ml">מיליליטר</string>
+    <string name="liter">ליטר</string>
+    <string name="mg">מיליגרם</string>
+    <string name="kg">קילוגרם</string>
+
+</resources>

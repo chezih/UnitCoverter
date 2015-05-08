@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversion_types">
+        <item>@string/tsp</item>
+        <item>@string/tbs</item>
+        <item>@string/cup</item>
+        <item>@string/oz</item>
+        <item>@string/pint</item>
+        <item>@string/quart</item>
+        <item>@string/gallon</item>
+        <item>@string/pound</item>
+        <item>@string/ml</item>
+        <item>@string/liter</item>
+        <item>@string/mg</item>
+        <item>@string/kg</item>
+    </string-array>
+</resources>
